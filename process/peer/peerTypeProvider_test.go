@@ -38,6 +38,7 @@ func TestNewPeerTypeProvider_ShouldWork(t *testing.T) {
 	ptp, err := NewPeerTypeProvider(arg)
 	assert.Nil(t, err)
 	assert.NotNil(t, ptp)
+
 }
 
 func TestPeerTypeProvider_CallsPopulateAndRegister(t *testing.T) {
