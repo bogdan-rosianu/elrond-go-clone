@@ -1,4 +1,4 @@
-## Description of the reasoning behind the pull request (what feature was missing / how a problem was manifesting itself / what was the motive behind a refactoring)
+## Description of the reasoning behind the pull request (what feature was missing / how the problem was manifesting itself / what was the motive behind the refactoring)
 - 
 - 
 - 
