@@ -1,4 +1,4 @@
-## Description of the pull request (what is new / what has changed / what is fixed)
+## Description of the reasoning behind the pull request (what feature was missing / how a problem was manifesting itself / what was the motive behind a refactoring)
 - 
 - 
 - 
